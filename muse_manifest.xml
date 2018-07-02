@@ -1,0 +1,30 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="badingroup.tk" resolutions="1x" timestamp="1530553913798">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4159010913" ref="index"/>
+    <file name="mail_us.css" crc="105093009" ref="mail_us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:mail_us"/>
+    <file name="museutils.js" crc="3803043152" ref="index:mail_us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:mail_us"/>
+    <file name="museconfig.js" crc="380897831" ref="index:mail_us"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:mail_us"/>
+    <file name="require.js" crc="4157109226" ref="index:mail_us"/>
+    <file name="webpro.js" crc="242022427" ref="mail_us"/>
+    <file name="form_check.php" crc="147359589" ref="mail_us"/>
+    <file name="form_throttle.php" crc="93986428" ref="mail_us"/>
+    <file name="form_process.php" crc="3851993751" ref="mail_us"/>
+    <file name="form-u190.php" crc="4179151268" ref="mail_us"/>
+  </folder>
+  <folder name="images">
+    <file name="1.jpg" crc="3768062213" ref="index:mail_us">
+      <caption webpage="index" alt=""/>
+      <caption webpage="mail_us" alt=""/>
+    </file>
+    <file name="u102-4.png" crc="488229647" ref="index"/>
+    <file name="u189-4.png" crc="488229647" ref="mail_us"/>
+  </folder>
+  <file name="index.html" crc="3964446697" seo="true" mt="1530553786863" redirect="true"/>
+  <file name="mail_us.html" crc="418191628" seo="true" mt="1530553810837" redirect="true"/>
+</manifest>
