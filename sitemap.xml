@@ -8,5 +8,11 @@
     <image:image>
       <image:loc>http://badingroup.tk/images/1.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://badingroup.tk/images/1874x981.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://badingroup.tk/images/1751x844.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
