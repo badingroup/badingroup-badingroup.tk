@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="badingroup.tk" resolutions="1x" timestamp="1530556546624">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="badingroup.tk" resolutions="1x" timestamp="1530557262828">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3884951583" ref="index"/>
@@ -16,6 +16,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="mail_us" alt=""/>
     </file>
+    <file name="строительная-компания-ооо-badingroup-favicon.ico" crc="85417200" ref="index"/>
   </folder>
-  <file name="index.html" crc="4258431610" seo="true" mt="1530556527459" redirect="true"/>
+  <file name="index.html" crc="505740707" seo="true" mt="1530556981494" redirect="true"/>
 </manifest>
